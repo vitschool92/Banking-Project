@@ -6,6 +6,7 @@ public class Payments {
 		// TODO Auto-generated method stub
 		
 		System.out.println("this is my payments module");
+		System.out.println("Thi is end of the github session");
 
 	}
 
